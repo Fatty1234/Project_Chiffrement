@@ -26,6 +26,7 @@ Ouvrir Wireshark et capturer le trafic réseau sur le port du serveur 5555
 Filtrer par protocole TCP et le port du serveur tcp.port == 5555
 Envoyer des messages depuis le client
 Observation : les messages capturés apparaissent illisibles (texte chiffré en AES)
+Les captures d’écran Wireshark sont jointes dans l’email pour référence
 
 
 Équipe du projet 
